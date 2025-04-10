@@ -5685,7 +5685,7 @@
       "name": "uv",
       "description": "uv, a fast Python package installer",
       "fileMatch": ["uv.toml"],
-      "url": "https://json.schemastore.org/uv.json"
+      "url": "https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/uv.schema.json"
     },
     {
       "name": "Vector",
