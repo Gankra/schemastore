@@ -5685,7 +5685,7 @@
       "name": "uv",
       "description": "uv, a fast Python package installer",
       "fileMatch": ["uv.toml"],
-      "url": "https://json.schemastore.org/uv.json"
+      "url": "https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/uv.schema.json"
     },
     {
       "name": "Vector",
@@ -7928,12 +7928,6 @@
       "description": "PEP 751 lock file",
       "fileMatch": ["pylock.toml", "pylock.*.toml"],
       "url": "https://json.schemastore.org/pylock.json"
-    },
-    {
-      "name": "Stylua Config",
-      "description": "Stylua configuration",
-      "fileMatch": [".stylua.toml", "stylua.toml"],
-      "url": "https://json.schemastore.org/stylua.json"
     }
   ]
 }
